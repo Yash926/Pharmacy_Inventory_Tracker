@@ -125,11 +125,11 @@ To scale this application for a larger hospital environment, I plan to implement
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**Yash Tripathi**
 
-- 🔗 [LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 💻 [GitHub Profile](https://github.com/YOUR_USERNAME)
-- 📧 [Email](mailto:your.email@example.com)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/yashtripathi12/)
+- 💻 [GitHub Profile](https://github.com/Yash926)
+- 📧 [Email](mailto:tripathiyash1432gmail.com)
 
 ---
 
